@@ -21,7 +21,7 @@
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name> Landmark Technologies Snapshot Nexus Repository </name>
 	      <url>http://52.23.224.109:8081/repository/Paypal_Snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
