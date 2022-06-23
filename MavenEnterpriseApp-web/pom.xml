@@ -101,12 +101,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://localhost:8085/landmarktechnologies/repository/flipkart-releases/</url>
+	      <url>http://52.23.224.109:8081/repository/Paypal_Release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://localhost:8085/landmarktechnologies/repository/flipkart-snapshot/</url>
+	      <url>http://52.23.224.109:8081/repository/Paypal_Snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
