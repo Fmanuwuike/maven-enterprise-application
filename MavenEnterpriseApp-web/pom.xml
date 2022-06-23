@@ -33,6 +33,11 @@
 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+			      
+           <sonar.host.url>http://54.173.167.78:9000/</sonar.host.url>
+            <sonar.login>class28</sonar.login>
+           <sonar.password>admin</sonar.password>
+ 
 	</properties>
 
 	<dependencies>
